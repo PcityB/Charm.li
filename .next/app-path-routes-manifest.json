@@ -1,0 +1,9 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/vehicle/dtc/route": "/api/vehicle/dtc",
+  "/api/vehicle/identify/route": "/api/vehicle/identify",
+  "/api/vehicle/labor/route": "/api/vehicle/labor",
+  "/api/vehicle/repair/route": "/api/vehicle/repair",
+  "/page": "/"
+}
