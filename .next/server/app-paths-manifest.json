@@ -1,9 +1,0 @@
-{
-  "/_global-error/page": "app/_global-error/page.js",
-  "/_not-found/page": "app/_not-found/page.js",
-  "/api/vehicle/dtc/route": "app/api/vehicle/dtc/route.js",
-  "/api/vehicle/identify/route": "app/api/vehicle/identify/route.js",
-  "/api/vehicle/labor/route": "app/api/vehicle/labor/route.js",
-  "/api/vehicle/repair/route": "app/api/vehicle/repair/route.js",
-  "/page": "app/page.js"
-}
